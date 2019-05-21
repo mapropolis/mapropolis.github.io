@@ -21,6 +21,6 @@ body:before{
     color: aliceblue;
     text-align: center
 }
-#nav ul li{
+li{
     display: inline;
 }
